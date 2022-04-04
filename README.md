@@ -16,3 +16,7 @@
 
 1.[立创EDA](https://lceda.cn/)
 
+### 下载工具
+
+1.[STC-ISP](https://www.stcisp.com/)
+
