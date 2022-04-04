@@ -22,4 +22,5 @@
 
 # 原理图
 
-![原理图](img\Schematic_Automatic_temperature_humidity_2022-04-04.png)
+![原理图](http://github.com/kiddle-ouyang/Automatic_temperature_humidity/raw/master/img/Schematic_Automatic_temperature_humidity_2022-04-04.png)
+
