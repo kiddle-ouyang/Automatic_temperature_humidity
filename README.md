@@ -22,7 +22,7 @@
 
 # 原理图
 
-![原理图](https://www.e-sfsky.tk/img/Schematic_Automatic_temperature_humidity_2022-04-04.png)(在**大陆地区**无法显示图片)
+![原理图](https://www.e-sfsky.tk/img/Schematic_Automatic_temperature_humidity_2022-04-04.png)(在**大陆地区**无法显示图片;;抱歉!)
 
 # 问题
 
