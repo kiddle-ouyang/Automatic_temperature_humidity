@@ -22,5 +22,5 @@
 
 # 原理图
 
-
+![原理图](http://cera2.host.itdata.icu:3312/vhost/index.php?c=webftp&a=getfile&dir=0&file=/img/Schematic_Automatic_temperature_humidity_2022-04-04.png)
 
