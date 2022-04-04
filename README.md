@@ -24,3 +24,8 @@
 
 ![原理图](https://www.e-sfsky.tk/img/Schematic_Automatic_temperature_humidity_2022-04-04.png)
 
+# 问题
+
+1.目前不确定是否稳定
+
+2.建议在40脚与DC电源插座的连接处添加开关,避免DC电源插座磨损过快
