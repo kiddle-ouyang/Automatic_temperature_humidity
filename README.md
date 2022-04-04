@@ -20,3 +20,6 @@
 
 1.[STC-ISP](https://www.stcisp.com/)
 
+# 原理图
+
+![原理图](img\Schematic_Automatic_temperature_humidity_2022-04-04.png)
